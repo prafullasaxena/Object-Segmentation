@@ -1,1 +1,1 @@
-# Simple-Image-Segmentation-pytorch
+# Object-Segmentation-pytorch
