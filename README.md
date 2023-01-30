@@ -1,7 +1,7 @@
 # Object-Segmentation-pytorch
 <Coursera course project>
 <p float="left">
-  <img src="segmentation_process.jpg" />
+  <img src="object-segmentation.png" />
 </p>
 
 ## Download Dataset
