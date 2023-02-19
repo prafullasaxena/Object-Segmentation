@@ -9,5 +9,4 @@ original author of the dataset :
 https://github.com/VikramShenoy97/Human-Segmentation-Dataset
 
 # Acknowledgement
-Vikram Shenoy
 coursera projects
